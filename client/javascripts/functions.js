@@ -14,3 +14,5 @@ let containsDuplicates = s => {
   }
   return false;
 };
+
+let revWords1 = (word) => {
